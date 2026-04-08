@@ -19,8 +19,8 @@ from aiogram.types import (
 from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 
 # Конфигурация бота
-BOT_TOKEN = "8433719918:AAE3GxKyXP4WlZBDUVusDPEEsSlmLgn5doc" # Замените на ваш токен
-ADMIN_ID = 8054710484# Замените на ваш ID администратора
+BOT_TOKEN = "8658628123:AAHIffJR3Vr4HbugXW_kC8y7HRdI8evcFDk" # Замените на ваш токен
+ADMIN_ID = 8727416659# Замените на ваш ID администратора
 
 # Адреса кошельков по умолчанию
 DEFAULT_USDT_ADDRESS = "https://t.me/send?start=IVGgr6c6IQfw"
